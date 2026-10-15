@@ -1,0 +1,6 @@
+name: hub-infra
+
+networks:
+  portal_net:
+    name: portal_net
+    driver: bridge
